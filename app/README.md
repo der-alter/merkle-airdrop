@@ -14,4 +14,5 @@ Features:
 ## Requirements
 
 This app is using PHP, I should fit on most cheap PHP hosting.
+
 A MySQL database is also used to store the projects informations.

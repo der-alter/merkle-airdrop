@@ -1,0 +1,11 @@
+App\Entity\Airdrop:
+  airdrop_1:
+    name: Test Airdrop #1
+    description: Just a test airdrop, for testing things.
+    owner: tz1VSUr8wwNhLAzempoch5d6hLRiTh8Cjcjb
+    status: draft
+  airdrop_2:
+    name: Test Airdrop #2
+    description: Another test airdrop, also for testing things.
+    owner: tz1aSkwEot3L2kmUvcoxzjMomb9mvBNuzFK6
+    status: draft
